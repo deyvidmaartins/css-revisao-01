@@ -1,0 +1,32 @@
+h1 {
+    font-family: arial;
+    font-size: 30px;
+    color: #280;
+}
+#origem {
+    color: #280;
+    font-size: 20px;
+    font-family: arial;
+}
+#titulo {
+    font-size: 15px;
+    font-family: arial;
+}
+#resumo {
+    font-family: arial;
+    font-size: 12px;
+}
+a:link {
+    color: #0000ff;
+}
+a:visited {
+    color: #ddc71a;
+}
+a:active {
+    color: #ac0b44;
+}
+a:hover {
+    color: #ff0000;
+    font-weight: bold;
+}
+
